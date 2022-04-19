@@ -226,7 +226,7 @@ cursor: pointer;
 }
 /*services section*/
 .services-container{
-	position: absolute;
+	align-items: center;
 }
 
 #services{
