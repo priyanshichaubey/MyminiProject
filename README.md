@@ -1,0 +1,1 @@
+This Project is based on a rent website portal that offers multiple category of items for rent on a single platform. It is basically is custoer driven website where customers can take items on rent and also able to put their own items on rent.
